@@ -1,0 +1,35 @@
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# SBT / Scala
+target/
+project/target/
+project/project/
+lib_managed/
+src_managed/
+.ensime
+.ensime_cache
+
+# Coursier / caches
+.coursier/
+.cache/coursier/
+
+# Build / output
+out/
+build/
+dist/
+
+# Node
+node_modules/
+
+# Logs / temp
+logs/
+*.log
+tmp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
