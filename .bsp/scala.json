@@ -1,0 +1,27 @@
+{
+  "name": "scala",
+  "argv": [
+    "/Users/sahil/Slips/scala3-3.7.4-x86_64-apple-darwin/libexec/scala-cli",
+    "--cli-default-scala-version",
+    "3.7.4",
+    "--repository",
+    "file:///Users/sahil/Slips/scala3-3.7.4-x86_64-apple-darwin/maven2",
+    "--prog-name",
+    "scala",
+    "--skip-cli-updates",
+    "bsp",
+    "--json-options",
+    "/Users/sahil/Slips/scalala/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/sahil/Slips/scalala/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/sahil/Slips/scalala/.scala-build/ide-envs.json",
+    "/Users/sahil/Slips/scalala/Slip6.scala"
+  ],
+  "version": "1.9.1",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
